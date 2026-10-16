@@ -11,7 +11,10 @@
 - `odysseys2-rubrics.csv`: one row per requirement (982 rows). All weights are 1.
 - `odysseys2-scores.csv`: 1,000 task/setup rows: four BrowserCode models at high effort, GPT-6 Astra from the earlier panel at default effort, and five GPT-5.6 Luna reruns.
 - `odysseys2-chart-data.json`: the page's per-task results, time curves, harness/effort summaries, and judge/model comparison summaries.
-- `SHA256SUMS`: checksums of the files above.
+- `judge-prompt.txt`: exact system prompt from the six inspected findings-judge requests.
+- `EVALUATION.md`: input preparation, scoring rules, recorded settings, evidence limits and verification coverage.
+- `LICENSE`: MIT license, matching the original Odysseys project.
+- `SHA256SUMS`: checksums of the release files.
 
 The scores export is the per-task data available in the blog, not all 2,500 main-study attempts or all earlier-panel runs. The chart data includes aggregate results for setups whose per-task scores are not in this export. Scores are rounded for display; aggregate means may differ slightly from averages of the rounded task scores.
 
@@ -25,11 +28,15 @@ Each task has `id`, `title`, `category`, `start_url`, `instruction`, and `rubric
 
 In chart data, `results[task_id][model]` is `[final_score, item_credit, zeroed, minutes]`, and `reps` contains five rerun final scores. Null values mean unavailable. The other chart structures mirror the published page. Astra is an earlier-panel comparison at default effort, not a fifth high-effort main-study run.
 
-The judge reads action history, screenshots, and delivered files. Not-assessable items receive no credit. The judge has not been validated against a reliable human reference; the paid pilot was insufficient for that purpose. A judge flag is a model judgment, not an independently confirmed finding of fabrication.
+The artifact-aware judge evaluates action history, screenshots, and file contents extracted by the harness. It does not use tools or open files itself. Not-assessable items receive no credit. The judge has not been validated against a reliable human reference; the paid pilot was insufficient for that purpose. A judge flag is a model judgment, not an independently confirmed finding of fabrication.
 
 ## Running tasks
 
 Use the instruction and start URL with a browser-equipped agent such as BrowserCode. Follow each task's explicit action restrictions. This release supplies task definitions and reported scores; it does not include the original benchmark runner, judge implementation, or private trajectory archives. Running a task in a current harness does not by itself reproduce the published evaluation protocol. Live sites and results change over time.
+
+## License
+
+The original task/rubric definitions, score data, prompt, and documentation in this release are provided under the MIT license in `LICENSE`. This does not grant rights to third-party websites, their content, or external dependencies. No private trajectory archives are included.
 
 ## Citation
 
