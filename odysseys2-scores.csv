@@ -1,0 +1,1001 @@
+task_id,title,model,final_score,item_credit,zeroed,minutes
+cmub-001,Compare every laptop on two Amazon results pages,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,54.08
+cmub-001,Compare every laptop on two Amazon results pages,"Grok 4.7 (BrowserCode, high)",81.8,81.8,0,30.47
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna (BrowserCode, high)",81.8,81.8,0,10.8
+cmub-001,Compare every laptop on two Amazon results pages,"Gemini 3.8 Flash (BrowserCode, high)",0.0,54.5,1,21.15
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-6 Astra (earlier panel, default)",100.0,,,40.8
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",54.5,,,
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",45.5,,,
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",63.6,,,
+cmub-001,Compare every laptop on two Amazon results pages,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",63.6,,,
+cmub-002,Count authors on a set of arXiv papers,"Opus 5.5 (BrowserCode, high)",77.8,77.8,0,5.07
+cmub-002,Count authors on a set of arXiv papers,"Grok 4.7 (BrowserCode, high)",77.8,77.8,0,23.65
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna (BrowserCode, high)",44.4,44.4,0,3.54
+cmub-002,Count authors on a set of arXiv papers,"Gemini 3.8 Flash (BrowserCode, high)",0.0,33.3,1,19.87
+cmub-002,Count authors on a set of arXiv papers,"GPT-6 Astra (earlier panel, default)",88.9,,,13.97
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",44.4,,,
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",44.4,,,
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",44.4,,,
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",33.3,,,
+cmub-002,Count authors on a set of arXiv papers,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",44.4,,,
+cmub-003,Compare current Mississauga rentals,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-003,Compare current Mississauga rentals,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,54.33
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna (BrowserCode, high)",50.0,50.0,0,13.97
+cmub-003,Compare current Mississauga rentals,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,22.72
+cmub-003,Compare current Mississauga rentals,"GPT-6 Astra (earlier panel, default)",60.0,,,59.99
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-003,Compare current Mississauga rentals,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-004,Inventory Santorini stays on Booking.com,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-004,Inventory Santorini stays on Booking.com,"Grok 4.7 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna (BrowserCode, high)",0.0,60.0,1,17.22
+cmub-004,Inventory Santorini stays on Booking.com,"Gemini 3.8 Flash (BrowserCode, high)",0.0,60.0,1,35.61
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-6 Astra (earlier panel, default)",90.0,,,57.63
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-004,Inventory Santorini stays on Booking.com,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-005,List every reachable counsellor in Wiltshire,"Opus 5.5 (BrowserCode, high)",50.0,50.0,0,44.74
+cmub-005,List every reachable counsellor in Wiltshire,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,34.27
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna (BrowserCode, high)",50.0,50.0,0,39.0
+cmub-005,List every reachable counsellor in Wiltshire,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,11.69
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-6 Astra (earlier panel, default)",80.0,,,46.77
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",10.0,,,
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",40.0,,,
+cmub-005,List every reachable counsellor in Wiltshire,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-006,Learn which clues win OpenGuessr rounds,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,13.63
+cmub-006,Learn which clues win OpenGuessr rounds,"Grok 4.7 (BrowserCode, high)",0.0,70.0,1,35.05
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna (BrowserCode, high)",0.0,50.0,1,9.6
+cmub-006,Learn which clues win OpenGuessr rounds,"Gemini 3.8 Flash (BrowserCode, high)",0.0,20.0,1,31.41
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-6 Astra (earlier panel, default)",100.0,,,22.59
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-006,Learn which clues win OpenGuessr rounds,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","Opus 5.5 (BrowserCode, high)",88.9,88.9,0,9.27
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","Grok 4.7 (BrowserCode, high)",88.9,88.9,0,11.84
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna (BrowserCode, high)",0.0,77.8,1,9.79
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","Gemini 3.8 Flash (BrowserCode, high)",0.0,44.4,1,10.43
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-6 Astra (earlier panel, default)",100.0,,,34.39
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna rerun 1 (BrowserCode, high)",77.8,,,
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna rerun 2 (BrowserCode, high)",55.6,,,
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna rerun 3 (BrowserCode, high)",44.4,,,
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna rerun 4 (BrowserCode, high)",77.8,,,
+cmub-007,"Trace DTE Energy capital shifts, 2022 to 2023","GPT-5.6 Luna rerun 5 (BrowserCode, high)",88.9,,,
+cmub-008,Read a school district teachers contract,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,21.55
+cmub-008,Read a school district teachers contract,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,15.21
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna (BrowserCode, high)",10.0,10.0,0,5.45
+cmub-008,Read a school district teachers contract,"Gemini 3.8 Flash (BrowserCode, high)",50.0,50.0,0,11.28
+cmub-008,Read a school district teachers contract,"GPT-6 Astra (earlier panel, default)",100.0,,,19.69
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-008,Read a school district teachers contract,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-009,Find Estonian GovTech startups to back,"Opus 5.5 (BrowserCode, high)",50.0,50.0,0,59.17
+cmub-009,Find Estonian GovTech startups to back,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,18.78
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna (BrowserCode, high)",25.0,25.0,0,11.38
+cmub-009,Find Estonian GovTech startups to back,"Gemini 3.8 Flash (BrowserCode, high)",0.0,25.0,1,38.14
+cmub-009,Find Estonian GovTech startups to back,"GPT-6 Astra (earlier panel, default)",50.0,,,49.01
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",12.5,,,
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",12.5,,,
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",37.5,,,
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",37.5,,,
+cmub-009,Find Estonian GovTech startups to back,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",25.0,,,
+cmub-010,Match Walmart stores to food-inspection records,"Opus 5.5 (BrowserCode, high)",77.8,77.8,0,36.46
+cmub-010,Match Walmart stores to food-inspection records,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,40.0
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna (BrowserCode, high)",66.7,66.7,0,16.89
+cmub-010,Match Walmart stores to food-inspection records,"Gemini 3.8 Flash (BrowserCode, high)",0.0,55.6,1,14.42
+cmub-010,Match Walmart stores to food-inspection records,"GPT-6 Astra (earlier panel, default)",88.9,,,59.99
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",77.8,,,
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",55.6,,,
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",77.8,,,
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",66.7,,,
+cmub-010,Match Walmart stores to food-inspection records,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",66.7,,,
+cmub-011,Rebuild LEGO Fallingwater 21005,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,16.21
+cmub-011,Rebuild LEGO Fallingwater 21005,"Grok 4.7 (BrowserCode, high)",55.6,55.6,0,21.78
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna (BrowserCode, high)",88.9,88.9,0,9.05
+cmub-011,Rebuild LEGO Fallingwater 21005,"Gemini 3.8 Flash (BrowserCode, high)",55.6,55.6,0,15.8
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-6 Astra (earlier panel, default)",100.0,,,11.37
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",88.9,,,
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",77.8,,,
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",88.9,,,
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",88.9,,,
+cmub-011,Rebuild LEGO Fallingwater 21005,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",44.4,,,
+cmub-012,Find jewelry brands using product-only photos,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,13.97
+cmub-012,Find jewelry brands using product-only photos,"Grok 4.7 (BrowserCode, high)",0.0,0.0,0,0.98
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,13.05
+cmub-012,Find jewelry brands using product-only photos,"Gemini 3.8 Flash (BrowserCode, high)",40.0,40.0,0,24.94
+cmub-012,Find jewelry brands using product-only photos,"GPT-6 Astra (earlier panel, default)",100.0,,,20.57
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-012,Find jewelry brands using product-only photos,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-013,Map BASF locations worldwide,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,35.92
+cmub-013,Map BASF locations worldwide,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,46.19
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,17.23
+cmub-013,Map BASF locations worldwide,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,18.02
+cmub-013,Map BASF locations worldwide,"GPT-6 Astra (earlier panel, default)",90.0,,,42.22
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-013,Map BASF locations worldwide,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-014,Report remote-attack Microsoft vulnerabilities,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,18.53
+cmub-014,Report remote-attack Microsoft vulnerabilities,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,31.08
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,7.75
+cmub-014,Report remote-attack Microsoft vulnerabilities,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,12.9
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-6 Astra (earlier panel, default)",100.0,,,25.32
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-014,Report remote-attack Microsoft vulnerabilities,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-015,Assemble an OpenAI vendor-security packet,"Opus 5.5 (BrowserCode, high)",81.8,81.8,0,40.83
+cmub-015,Assemble an OpenAI vendor-security packet,"Grok 4.7 (BrowserCode, high)",63.6,63.6,0,20.43
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna (BrowserCode, high)",72.7,72.7,0,23.26
+cmub-015,Assemble an OpenAI vendor-security packet,"Gemini 3.8 Flash (BrowserCode, high)",0.0,18.2,1,11.01
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-6 Astra (earlier panel, default)",90.9,,,39.6
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",54.5,,,
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",63.6,,,
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",63.6,,,
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",45.5,,,
+cmub-015,Assemble an OpenAI vendor-security packet,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",36.4,,,
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"Opus 5.5 (BrowserCode, high)",88.9,88.9,0,24.18
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,29.62
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,7.7
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"Gemini 3.8 Flash (BrowserCode, high)",0.0,33.3,1,14.64
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-6 Astra (earlier panel, default)",100.0,,,22.99
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",88.9,,,
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",66.7,,,
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",88.9,,,
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",88.9,,,
+cmub-016,Buy a WORX Landroid WR346 for Phoenix,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",88.9,,,
+cmub-017,Check a Rough Country cover fits a Ram,"Opus 5.5 (BrowserCode, high)",50.0,50.0,0,33.72
+cmub-017,Check a Rough Country cover fits a Ram,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,22.31
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,15.57
+cmub-017,Check a Rough Country cover fits a Ram,"Gemini 3.8 Flash (BrowserCode, high)",0.0,20.0,1,55.03
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-6 Astra (earlier panel, default)",80.0,,,28.29
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",10.0,,,
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-017,Check a Rough Country cover fits a Ram,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-018,Compare offers for a WORX Landroid WR320.1,"Opus 5.5 (BrowserCode, high)",62.5,62.5,0,37.88
+cmub-018,Compare offers for a WORX Landroid WR320.1,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,44.28
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna (BrowserCode, high)",87.5,87.5,0,8.42
+cmub-018,Compare offers for a WORX Landroid WR320.1,"Gemini 3.8 Flash (BrowserCode, high)",0.0,37.5,1,20.76
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-6 Astra (earlier panel, default)",100.0,,,39.26
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",87.5,,,
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",100.0,,,
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",75.0,,,
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",87.5,,,
+cmub-018,Compare offers for a WORX Landroid WR320.1,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",75.0,,,
+cmub-019,Export the Bett UK exhibitor directory,"Opus 5.5 (BrowserCode, high)",81.8,81.8,0,22.28
+cmub-019,Export the Bett UK exhibitor directory,"Grok 4.7 (BrowserCode, high)",63.6,63.6,0,25.18
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna (BrowserCode, high)",81.8,81.8,0,14.07
+cmub-019,Export the Bett UK exhibitor directory,"Gemini 3.8 Flash (BrowserCode, high)",0.0,54.5,1,21.09
+cmub-019,Export the Bett UK exhibitor directory,"GPT-6 Astra (earlier panel, default)",100.0,,,36.63
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",45.5,,,
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",72.7,,,
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",81.8,,,
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",36.4,,,
+cmub-019,Export the Bett UK exhibitor directory,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",54.5,,,
+cmub-020,Find where PayPal appears for AirPods on Target,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,32.84
+cmub-020,Find where PayPal appears for AirPods on Target,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,22.15
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,15.03
+cmub-020,Find where PayPal appears for AirPods on Target,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,18.89
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-6 Astra (earlier panel, default)",90.0,,,13.94
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-020,Find where PayPal appears for AirPods on Target,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-021,Survey Scientific Reports 2012 conference papers,"Opus 5.5 (BrowserCode, high)",66.7,66.7,0,23.59
+cmub-021,Survey Scientific Reports 2012 conference papers,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,24.21
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna (BrowserCode, high)",44.4,44.4,0,17.6
+cmub-021,Survey Scientific Reports 2012 conference papers,"Gemini 3.8 Flash (BrowserCode, high)",0.0,66.7,1,14.19
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-6 Astra (earlier panel, default)",100.0,,,24.93
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",66.7,,,
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",66.7,,,
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-021,Survey Scientific Reports 2012 conference papers,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",100.0,,,
+cmub-022,Compare Dutch retailer delivery info,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,23.94
+cmub-022,Compare Dutch retailer delivery info,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,30.8
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,8.48
+cmub-022,Compare Dutch retailer delivery info,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,20.53
+cmub-022,Compare Dutch retailer delivery info,"GPT-6 Astra (earlier panel, default)",70.0,,,17.46
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-022,Compare Dutch retailer delivery info,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-023,Map YC Winter 2025 B2B companies,"Opus 5.5 (BrowserCode, high)",72.7,72.7,0,27.75
+cmub-023,Map YC Winter 2025 B2B companies,"Grok 4.7 (BrowserCode, high)",72.7,72.7,0,27.82
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna (BrowserCode, high)",54.5,54.5,0,43.73
+cmub-023,Map YC Winter 2025 B2B companies,"Gemini 3.8 Flash (BrowserCode, high)",0.0,54.5,1,9.73
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-6 Astra (earlier panel, default)",72.7,,,45.09
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",72.7,,,
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",72.7,,,
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",45.5,,,
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",63.6,,,
+cmub-023,Map YC Winter 2025 B2B companies,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",54.5,,,
+cmub-024,Track Wisconsin Surplus auctions,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,27.93
+cmub-024,Track Wisconsin Surplus auctions,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,29.74
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna (BrowserCode, high)",0.0,70.0,1,24.78
+cmub-024,Track Wisconsin Surplus auctions,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,11.28
+cmub-024,Track Wisconsin Surplus auctions,"GPT-6 Astra (earlier panel, default)",70.0,,,30.77
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",30.0,,,
+cmub-024,Track Wisconsin Surplus auctions,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",30.0,,,
+cmub-025,"List every restaurant in East Hartford, CT","Opus 5.5 (BrowserCode, high)",50.0,50.0,0,9.43
+cmub-025,"List every restaurant in East Hartford, CT","Grok 4.7 (BrowserCode, high)",40.0,40.0,0,39.07
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna (BrowserCode, high)",40.0,40.0,0,7.6
+cmub-025,"List every restaurant in East Hartford, CT","Gemini 3.8 Flash (BrowserCode, high)",0.0,10.0,1,32.85
+cmub-025,"List every restaurant in East Hartford, CT","GPT-6 Astra (earlier panel, default)",100.0,,,12.14
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna rerun 4 (BrowserCode, high)",40.0,,,
+cmub-025,"List every restaurant in East Hartford, CT","GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-026,Inventory GMX bounty repositories,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,5.3
+cmub-026,Inventory GMX bounty repositories,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,13.1
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,11.39
+cmub-026,Inventory GMX bounty repositories,"Gemini 3.8 Flash (BrowserCode, high)",80.0,80.0,0,14.14
+cmub-026,Inventory GMX bounty repositories,"GPT-6 Astra (earlier panel, default)",60.0,,,9.17
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",100.0,,,
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-026,Inventory GMX bounty repositories,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"Opus 5.5 (BrowserCode, high)",88.9,88.9,0,24.02
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,24.9
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna (BrowserCode, high)",88.9,88.9,0,28.75
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"Gemini 3.8 Flash (BrowserCode, high)",0.0,33.3,1,13.6
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-6 Astra (earlier panel, default)",100.0,,,41.61
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",77.8,,,
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",88.9,,,
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-027,Audit Flying Tiger Turkey mobile product pages,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",55.6,,,
+cmub-028,Price a walnut countertop at Home Depot,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,23.26
+cmub-028,Price a walnut countertop at Home Depot,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,40.33
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,22.12
+cmub-028,Price a walnut countertop at Home Depot,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,25.39
+cmub-028,Price a walnut countertop at Home Depot,"GPT-6 Astra (earlier panel, default)",80.0,,,29.9
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-028,Price a walnut countertop at Home Depot,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-029,Trace a family in an 1882 handwritten register,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,19.47
+cmub-029,Trace a family in an 1882 handwritten register,"Grok 4.7 (BrowserCode, high)",66.7,66.7,0,32.37
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna (BrowserCode, high)",77.8,77.8,0,37.95
+cmub-029,Trace a family in an 1882 handwritten register,"Gemini 3.8 Flash (BrowserCode, high)",33.3,33.3,0,26.19
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-6 Astra (earlier panel, default)",100.0,,,26.86
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",11.1,,,
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",44.4,,,
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",11.1,,,
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",11.1,,,
+cmub-029,Trace a family in an 1882 handwritten register,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",88.9,,,
+cmub-030,Find the most-rated free movie on Internet Archive,"Opus 5.5 (BrowserCode, high)",77.8,77.8,0,35.68
+cmub-030,Find the most-rated free movie on Internet Archive,"Grok 4.7 (BrowserCode, high)",44.4,44.4,0,24.91
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna (BrowserCode, high)",55.6,55.6,0,20.34
+cmub-030,Find the most-rated free movie on Internet Archive,"Gemini 3.8 Flash (BrowserCode, high)",11.1,11.1,0,1.69
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-6 Astra (earlier panel, default)",55.6,,,39.36
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",44.4,,,
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",33.3,,,
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",44.4,,,
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",66.7,,,
+cmub-030,Find the most-rated free movie on Internet Archive,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",44.4,,,
+cmub-031,Summarize one day of Title 21 eCFR changes,"Opus 5.5 (BrowserCode, high)",88.9,88.9,0,8.43
+cmub-031,Summarize one day of Title 21 eCFR changes,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,11.69
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,4.49
+cmub-031,Summarize one day of Title 21 eCFR changes,"Gemini 3.8 Flash (BrowserCode, high)",0.0,33.3,1,6.8
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-6 Astra (earlier panel, default)",88.9,,,12.0
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",66.7,,,
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",88.9,,,
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",55.6,,,
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",44.4,,,
+cmub-031,Summarize one day of Title 21 eCFR changes,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",88.9,,,
+cmub-032,Assess a Palo Alto lot before hiring an architect,"Opus 5.5 (BrowserCode, high)",88.9,88.9,0,18.04
+cmub-032,Assess a Palo Alto lot before hiring an architect,"Grok 4.7 (BrowserCode, high)",77.8,77.8,0,14.96
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna (BrowserCode, high)",88.9,88.9,0,12.19
+cmub-032,Assess a Palo Alto lot before hiring an architect,"Gemini 3.8 Flash (BrowserCode, high)",0.0,66.7,1,10.36
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-6 Astra (earlier panel, default)",100.0,,,17.82
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",77.8,,,
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",100.0,,,
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",88.9,,,
+cmub-032,Assess a Palo Alto lot before hiring an architect,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",88.9,,,
+cmub-033,Brief a Maryland gas rate case,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,29.85
+cmub-033,Brief a Maryland gas rate case,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,21.03
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna (BrowserCode, high)",20.0,20.0,0,15.52
+cmub-033,Brief a Maryland gas rate case,"Gemini 3.8 Flash (BrowserCode, high)",30.0,30.0,0,15.74
+cmub-033,Brief a Maryland gas rate case,"GPT-6 Astra (earlier panel, default)",90.0,,,59.99
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",50.0,,,
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-033,Brief a Maryland gas rate case,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"Opus 5.5 (BrowserCode, high)",33.3,33.3,0,59.99
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"Grok 4.7 (BrowserCode, high)",11.1,11.1,0,4.97
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna (BrowserCode, high)",33.3,33.3,0,30.61
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"Gemini 3.8 Flash (BrowserCode, high)",0.0,44.4,1,32.22
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-6 Astra (earlier panel, default)",77.8,,,34.62
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",44.4,,,
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-034,Source 39 quotes for a Gulf beach-club renovation,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",33.3,,,
+cmub-035,Brief official statistics on loneliness in Japan,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,19.69
+cmub-035,Brief official statistics on loneliness in Japan,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,17.86
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,12.28
+cmub-035,Brief official statistics on loneliness in Japan,"Gemini 3.8 Flash (BrowserCode, high)",0.0,37.5,1,23.33
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-6 Astra (earlier panel, default)",87.5,,,33.76
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",87.5,,,
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",87.5,,,
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-035,Brief official statistics on loneliness in Japan,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",75.0,,,
+cmub-036,Check a Rough Country cover for Silverado HD,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,14.55
+cmub-036,Check a Rough Country cover for Silverado HD,"Grok 4.7 (BrowserCode, high)",30.0,30.0,0,7.18
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,9.82
+cmub-036,Check a Rough Country cover for Silverado HD,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,9.03
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-6 Astra (earlier panel, default)",90.0,,,18.16
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-036,Check a Rough Country cover for Silverado HD,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-037,Test a betting-odds pattern in Turkish football,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,53.62
+cmub-037,Test a betting-odds pattern in Turkish football,"Grok 4.7 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,12.28
+cmub-037,Test a betting-odds pattern in Turkish football,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,57.8
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-6 Astra (earlier panel, default)",90.0,,,21.24
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",40.0,,,
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",30.0,,,
+cmub-037,Test a betting-odds pattern in Turkish football,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-038,Plan smart lighting for a London rental,"Opus 5.5 (BrowserCode, high)",0.0,60.0,1,59.54
+cmub-038,Plan smart lighting for a London rental,"Grok 4.7 (BrowserCode, high)",30.0,30.0,0,20.34
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,13.01
+cmub-038,Plan smart lighting for a London rental,"Gemini 3.8 Flash (BrowserCode, high)",0.0,0.0,1,13.49
+cmub-038,Plan smart lighting for a London rental,"GPT-6 Astra (earlier panel, default)",70.0,,,59.99
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-038,Plan smart lighting for a London rental,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",30.0,,,
+cmub-039,Map Live Nation trademarks in the US and Germany,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,20.18
+cmub-039,Map Live Nation trademarks in the US and Germany,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,30.39
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,15.88
+cmub-039,Map Live Nation trademarks in the US and Germany,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,16.75
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-6 Astra (earlier panel, default)",100.0,,,21.13
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-039,Map Live Nation trademarks in the US and Germany,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-040,Compare delivery details at five Italian retailers,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,30.69
+cmub-040,Compare delivery details at five Italian retailers,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,32.0
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,8.44
+cmub-040,Compare delivery details at five Italian retailers,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,22.88
+cmub-040,Compare delivery details at five Italian retailers,"GPT-6 Astra (earlier panel, default)",100.0,,,28.23
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-040,Compare delivery details at five Italian retailers,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-041,Pick BASF sites for a logistics team,"Opus 5.5 (BrowserCode, high)",77.8,77.8,0,35.56
+cmub-041,Pick BASF sites for a logistics team,"Grok 4.7 (BrowserCode, high)",66.7,66.7,0,24.61
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna (BrowserCode, high)",55.6,55.6,0,7.82
+cmub-041,Pick BASF sites for a logistics team,"Gemini 3.8 Flash (BrowserCode, high)",33.3,33.3,0,9.41
+cmub-041,Pick BASF sites for a logistics team,"GPT-6 Astra (earlier panel, default)",77.8,,,26.15
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",55.6,,,
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",55.6,,,
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",44.4,,,
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",66.7,,,
+cmub-041,Pick BASF sites for a logistics team,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",66.7,,,
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","Opus 5.5 (BrowserCode, high)",50.0,50.0,0,13.95
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","Grok 4.7 (BrowserCode, high)",70.0,70.0,0,26.51
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,9.96
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","Gemini 3.8 Flash (BrowserCode, high)",0.0,60.0,1,17.45
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-6 Astra (earlier panel, default)",80.0,,,27.41
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-042,"Spec a Porsche 911 Carrera under $150,000","GPT-5.6 Luna rerun 5 (BrowserCode, high)",80.0,,,
+cmub-043,Investigate value decline at a Cupertino address,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,13.33
+cmub-043,Investigate value decline at a Cupertino address,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,18.25
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,7.8
+cmub-043,Investigate value decline at a Cupertino address,"Gemini 3.8 Flash (BrowserCode, high)",50.0,50.0,0,14.82
+cmub-043,Investigate value decline at a Cupertino address,"GPT-6 Astra (earlier panel, default)",90.0,,,14.61
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-043,Investigate value decline at a Cupertino address,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-044,Screen Orange Polska property listings,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-044,Screen Orange Polska property listings,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,30.14
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna (BrowserCode, high)",20.0,20.0,0,59.99
+cmub-044,Screen Orange Polska property listings,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,17.65
+cmub-044,Screen Orange Polska property listings,"GPT-6 Astra (earlier panel, default)",100.0,,,53.81
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",30.0,,,
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",60.0,,,
+cmub-044,Screen Orange Polska property listings,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-045,Locate Indonesian ISPO certified sites,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,10.81
+cmub-045,Locate Indonesian ISPO certified sites,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,12.59
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna (BrowserCode, high)",55.6,55.6,0,19.04
+cmub-045,Locate Indonesian ISPO certified sites,"Gemini 3.8 Flash (BrowserCode, high)",0.0,0.0,1,18.17
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-6 Astra (earlier panel, default)",100.0,,,3.55
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",44.4,,,
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",55.6,,,
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",66.7,,,
+cmub-045,Locate Indonesian ISPO certified sites,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",44.4,,,
+cmub-046,"Record the menus at The Turtle Club, Naples","Opus 5.5 (BrowserCode, high)",80.0,80.0,0,8.91
+cmub-046,"Record the menus at The Turtle Club, Naples","Grok 4.7 (BrowserCode, high)",60.0,60.0,0,11.32
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,7.5
+cmub-046,"Record the menus at The Turtle Club, Naples","Gemini 3.8 Flash (BrowserCode, high)",20.0,20.0,0,7.44
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-6 Astra (earlier panel, default)",100.0,,,10.49
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-046,"Record the menus at The Turtle Club, Naples","GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-047,Catalogue JCB mini excavators in the US,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,27.89
+cmub-047,Catalogue JCB mini excavators in the US,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,20.96
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,11.53
+cmub-047,Catalogue JCB mini excavators in the US,"Gemini 3.8 Flash (BrowserCode, high)",60.0,60.0,0,12.76
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-6 Astra (earlier panel, default)",100.0,,,31.3
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",100.0,,,
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-047,Catalogue JCB mini excavators in the US,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-048,Find higher-ed teaching conference organizers,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,7.81
+cmub-048,Find higher-ed teaching conference organizers,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,11.95
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,4.48
+cmub-048,Find higher-ed teaching conference organizers,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,5.77
+cmub-048,Find higher-ed teaching conference organizers,"GPT-6 Astra (earlier panel, default)",100.0,,,9.98
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-048,Find higher-ed teaching conference organizers,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",100.0,,,
+cmub-049,Count 30 days of TechCrunch bylines,"Opus 5.5 (BrowserCode, high)",90.9,90.9,0,13.53
+cmub-049,Count 30 days of TechCrunch bylines,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,21.21
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna (BrowserCode, high)",90.9,90.9,0,9.54
+cmub-049,Count 30 days of TechCrunch bylines,"Gemini 3.8 Flash (BrowserCode, high)",0.0,63.6,1,10.45
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-6 Astra (earlier panel, default)",72.7,,,22.19
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.9,,,
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",72.7,,,
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",100.0,,,
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",81.8,,,
+cmub-049,Count 30 days of TechCrunch bylines,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.9,,,
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"Opus 5.5 (BrowserCode, high)",0.0,0.0,0,59.99
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,23.57
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,37.64
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"Gemini 3.8 Flash (BrowserCode, high)",0.0,60.0,1,14.69
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-6 Astra (earlier panel, default)",100.0,,,21.41
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",60.0,,,
+cmub-050,Compare Bupa dentists near Castle Hill NSW,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-051,Play and document one full game of Gomoku,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,12.18
+cmub-051,Play and document one full game of Gomoku,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,12.35
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna (BrowserCode, high)",0.0,90.0,1,6.15
+cmub-051,Play and document one full game of Gomoku,"Gemini 3.8 Flash (BrowserCode, high)",0.0,70.0,1,7.32
+cmub-051,Play and document one full game of Gomoku,"GPT-6 Astra (earlier panel, default)",100.0,,,8.29
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-051,Play and document one full game of Gomoku,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",80.0,,,
+cmub-052,Find the animal in a reverted Wikipedia edit,"Opus 5.5 (BrowserCode, high)",66.7,66.7,0,20.26
+cmub-052,Find the animal in a reverted Wikipedia edit,"Grok 4.7 (BrowserCode, high)",66.7,66.7,0,11.09
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna (BrowserCode, high)",66.7,66.7,0,9.35
+cmub-052,Find the animal in a reverted Wikipedia edit,"Gemini 3.8 Flash (BrowserCode, high)",44.4,44.4,0,6.91
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-6 Astra (earlier panel, default)",55.6,,,24.74
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",88.9,,,
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",77.8,,,
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",66.7,,,
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",77.8,,,
+cmub-052,Find the animal in a reverted Wikipedia edit,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-053,Assess what can be built at a Newport Beach lot,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,20.07
+cmub-053,Assess what can be built at a Newport Beach lot,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,14.46
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,19.08
+cmub-053,Assess what can be built at a Newport Beach lot,"Gemini 3.8 Flash (BrowserCode, high)",0.0,20.0,1,15.74
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-6 Astra (earlier panel, default)",90.0,,,45.75
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",60.0,,,
+cmub-053,Assess what can be built at a Newport Beach lot,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",80.0,,,
+cmub-054,List standard features of a Cavco modular home,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,23.38
+cmub-054,List standard features of a Cavco modular home,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,16.67
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,6.99
+cmub-054,List standard features of a Cavco modular home,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,7.81
+cmub-054,List standard features of a Cavco modular home,"GPT-6 Astra (earlier panel, default)",70.0,,,22.92
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-054,List standard features of a Cavco modular home,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-055,Find jobs across Western Sydney,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,41.17
+cmub-055,Find jobs across Western Sydney,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,25.21
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,13.54
+cmub-055,Find jobs across Western Sydney,"Gemini 3.8 Flash (BrowserCode, high)",60.0,60.0,0,51.16
+cmub-055,Find jobs across Western Sydney,"GPT-6 Astra (earlier panel, default)",70.0,,,10.64
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-055,Find jobs across Western Sydney,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","Opus 5.5 (BrowserCode, high)",100.0,100.0,0,29.63
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","Grok 4.7 (BrowserCode, high)",90.0,90.0,0,23.96
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna (BrowserCode, high)",40.0,40.0,0,9.81
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","Gemini 3.8 Flash (BrowserCode, high)",0.0,70.0,1,11.7
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-6 Astra (earlier panel, default)",100.0,,,24.05
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-056,"Pull U.S. import data for bulk bags, HTS 6305.32","GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-057,Record every FinSMEs article from one day,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,32.03
+cmub-057,Record every FinSMEs article from one day,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,21.32
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,
+cmub-057,Record every FinSMEs article from one day,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,10.91
+cmub-057,Record every FinSMEs article from one day,"GPT-6 Astra (earlier panel, default)",90.0,,,37.14
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",30.0,,,
+cmub-057,Record every FinSMEs article from one day,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-058,Build a Blue Cross Laboratories insights library,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,48.43
+cmub-058,Build a Blue Cross Laboratories insights library,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,30.84
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,21.92
+cmub-058,Build a Blue Cross Laboratories insights library,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,16.41
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-6 Astra (earlier panel, default)",90.0,,,43.8
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",10.0,,,
+cmub-058,Build a Blue Cross Laboratories insights library,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-059,Identify a product from an invoice line,"Opus 5.5 (BrowserCode, high)",72.7,72.7,0,20.94
+cmub-059,Identify a product from an invoice line,"Grok 4.7 (BrowserCode, high)",81.8,81.8,0,12.68
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna (BrowserCode, high)",90.9,90.9,0,16.17
+cmub-059,Identify a product from an invoice line,"Gemini 3.8 Flash (BrowserCode, high)",0.0,36.4,1,10.94
+cmub-059,Identify a product from an invoice line,"GPT-6 Astra (earlier panel, default)",100.0,,,14.52
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",81.8,,,
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",81.8,,,
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",81.8,,,
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",72.7,,,
+cmub-059,Identify a product from an invoice line,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",72.7,,,
+cmub-060,Compare bulk-bag imports from four countries,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,20.44
+cmub-060,Compare bulk-bag imports from four countries,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,15.3
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna (BrowserCode, high)",77.8,77.8,0,9.18
+cmub-060,Compare bulk-bag imports from four countries,"Gemini 3.8 Flash (BrowserCode, high)",77.8,77.8,0,17.55
+cmub-060,Compare bulk-bag imports from four countries,"GPT-6 Astra (earlier panel, default)",100.0,,,19.64
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",33.3,,,
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",88.9,,,
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",22.2,,,
+cmub-060,Compare bulk-bag imports from four countries,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",55.6,,,
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","Grok 4.7 (BrowserCode, high)",20.0,20.0,0,59.99
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","Gemini 3.8 Flash (BrowserCode, high)",20.0,20.0,0,59.99
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-6 Astra (earlier panel, default)",40.0,,,59.99
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna rerun 1 (BrowserCode, high)",10.0,,,
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna rerun 2 (BrowserCode, high)",10.0,,,
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna rerun 4 (BrowserCode, high)",10.0,,,
+cmub-061,"Price half-year Hertz rentals near Springfield, Illinois","GPT-5.6 Luna rerun 5 (BrowserCode, high)",30.0,,,
+cmub-062,List newly licensed San Diego businesses,"Opus 5.5 (BrowserCode, high)",54.5,54.5,0,51.06
+cmub-062,List newly licensed San Diego businesses,"Grok 4.7 (BrowserCode, high)",45.5,45.5,0,39.42
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna (BrowserCode, high)",72.7,72.7,0,9.97
+cmub-062,List newly licensed San Diego businesses,"Gemini 3.8 Flash (BrowserCode, high)",0.0,45.5,1,32.26
+cmub-062,List newly licensed San Diego businesses,"GPT-6 Astra (earlier panel, default)",63.6,,,31.63
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",45.5,,,
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.9,,,
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",27.3,,,
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.9,,,
+cmub-062,List newly licensed San Diego businesses,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",72.7,,,
+cmub-063,Review Vision3K as a retail partner,"Opus 5.5 (BrowserCode, high)",72.7,72.7,0,42.75
+cmub-063,Review Vision3K as a retail partner,"Grok 4.7 (BrowserCode, high)",72.7,72.7,0,26.31
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna (BrowserCode, high)",0.0,54.5,1,22.52
+cmub-063,Review Vision3K as a retail partner,"Gemini 3.8 Flash (BrowserCode, high)",0.0,45.5,1,12.15
+cmub-063,Review Vision3K as a retail partner,"GPT-6 Astra (earlier panel, default)",72.7,,,59.99
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",54.5,,,
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",81.8,,,
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",63.6,,,
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",63.6,,,
+cmub-063,Review Vision3K as a retail partner,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",63.6,,,
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"Grok 4.7 (BrowserCode, high)",30.0,30.0,0,33.17
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,20.0
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-6 Astra (earlier panel, default)",50.0,,,41.88
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",10.0,,,
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",10.0,,,
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",10.0,,,
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",10.0,,,
+cmub-064,Find CAD laptops a Slovenian retailer stocks,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",10.0,,,
+cmub-065,Build a GCSE History revision pack,"Opus 5.5 (BrowserCode, high)",50.0,50.0,0,40.37
+cmub-065,Build a GCSE History revision pack,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,22.54
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna (BrowserCode, high)",20.0,20.0,0,13.74
+cmub-065,Build a GCSE History revision pack,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,9.23
+cmub-065,Build a GCSE History revision pack,"GPT-6 Astra (earlier panel, default)",100.0,,,59.99
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",20.0,,,
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",40.0,,,
+cmub-065,Build a GCSE History revision pack,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-066,Collect Hunter Health plans for an ACT quote,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,16.09
+cmub-066,Collect Hunter Health plans for an ACT quote,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,16.48
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,6.77
+cmub-066,Collect Hunter Health plans for an ACT quote,"Gemini 3.8 Flash (BrowserCode, high)",40.0,40.0,0,9.4
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-6 Astra (earlier panel, default)",100.0,,,17.72
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-066,Collect Hunter Health plans for an ACT quote,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-067,Cost out AquaTru water purifiers,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.47
+cmub-067,Cost out AquaTru water purifiers,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,47.22
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna (BrowserCode, high)",30.0,30.0,0,21.47
+cmub-067,Cost out AquaTru water purifiers,"Gemini 3.8 Flash (BrowserCode, high)",0.0,20.0,1,14.97
+cmub-067,Cost out AquaTru water purifiers,"GPT-6 Astra (earlier panel, default)",60.0,,,59.99
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",70.0,,,
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",20.0,,,
+cmub-067,Cost out AquaTru water purifiers,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-068,Build a directory of U.S. public retirement agencies,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,41.7
+cmub-068,Build a directory of U.S. public retirement agencies,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,27.92
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna (BrowserCode, high)",50.0,50.0,0,36.77
+cmub-068,Build a directory of U.S. public retirement agencies,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,10.04
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-6 Astra (earlier panel, default)",100.0,,,50.83
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",40.0,,,
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-068,Build a directory of U.S. public retirement agencies,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",40.0,,,
+cmub-069,Get a Huawei trade-in price,"Opus 5.5 (BrowserCode, high)",18.2,18.2,0,59.99
+cmub-069,Get a Huawei trade-in price,"Grok 4.7 (BrowserCode, high)",90.9,90.9,0,26.37
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,27.53
+cmub-069,Get a Huawei trade-in price,"Gemini 3.8 Flash (BrowserCode, high)",18.2,18.2,0,59.99
+cmub-069,Get a Huawei trade-in price,"GPT-6 Astra (earlier panel, default)",100.0,,,44.85
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",63.6,,,
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",72.7,,,
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",81.8,,,
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-069,Get a Huawei trade-in price,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.9,,,
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","Opus 5.5 (BrowserCode, high)",90.0,90.0,0,15.18
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","Grok 4.7 (BrowserCode, high)",90.0,90.0,0,19.29
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna (BrowserCode, high)",0.0,80.0,1,13.04
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","Gemini 3.8 Flash (BrowserCode, high)",70.0,70.0,0,9.46
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-6 Astra (earlier panel, default)",100.0,,,26.87
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna rerun 2 (BrowserCode, high)",100.0,,,
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna rerun 3 (BrowserCode, high)",100.0,,,
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-070,"Reconcile Root, Inc. financials, 2022 to 2025","GPT-5.6 Luna rerun 5 (BrowserCode, high)",100.0,,,
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,54.79
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,24.0
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,9.75
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"Gemini 3.8 Flash (BrowserCode, high)",10.0,10.0,0,0.55
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-6 Astra (earlier panel, default)",0.0,,,59.99
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-071,Choose a used 2022 Toyota RAV4 trim,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-072,Map FernUniversität teacher-exam options,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,29.65
+cmub-072,Map FernUniversität teacher-exam options,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,16.92
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna (BrowserCode, high)",100.0,100.0,0,10.44
+cmub-072,Map FernUniversität teacher-exam options,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,4.98
+cmub-072,Map FernUniversität teacher-exam options,"GPT-6 Astra (earlier panel, default)",100.0,,,41.72
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-072,Map FernUniversität teacher-exam options,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",100.0,,,
+cmub-073,Compare three king memory-foam mattresses,"Opus 5.5 (BrowserCode, high)",87.5,87.5,0,16.72
+cmub-073,Compare three king memory-foam mattresses,"Grok 4.7 (BrowserCode, high)",75.0,75.0,0,17.92
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna (BrowserCode, high)",62.5,62.5,0,7.93
+cmub-073,Compare three king memory-foam mattresses,"Gemini 3.8 Flash (BrowserCode, high)",0.0,25.0,1,10.66
+cmub-073,Compare three king memory-foam mattresses,"GPT-6 Astra (earlier panel, default)",100.0,,,9.83
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",87.5,,,
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",75.0,,,
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",87.5,,,
+cmub-073,Compare three king memory-foam mattresses,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",87.5,,,
+cmub-074,Brief Manhattan Associates Q3 2025,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,19.6
+cmub-074,Brief Manhattan Associates Q3 2025,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,20.0
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna (BrowserCode, high)",70.0,70.0,0,10.82
+cmub-074,Brief Manhattan Associates Q3 2025,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,7.39
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-6 Astra (earlier panel, default)",100.0,,,30.19
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",40.0,,,
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",50.0,,,
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",60.0,,,
+cmub-074,Brief Manhattan Associates Q3 2025,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-075,Compare used VW ID.4s near Castlederg,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,21.02
+cmub-075,Compare used VW ID.4s near Castlederg,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,21.5
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna (BrowserCode, high)",40.0,40.0,0,19.45
+cmub-075,Compare used VW ID.4s near Castlederg,"Gemini 3.8 Flash (BrowserCode, high)",40.0,40.0,0,12.33
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-6 Astra (earlier panel, default)",80.0,,,52.01
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",40.0,,,
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-075,Compare used VW ID.4s near Castlederg,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-076,Search recall systems for Pratt & Whitney,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,39.85
+cmub-076,Search recall systems for Pratt & Whitney,"Grok 4.7 (BrowserCode, high)",60.0,60.0,0,36.1
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna (BrowserCode, high)",40.0,40.0,0,13.97
+cmub-076,Search recall systems for Pratt & Whitney,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,17.99
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-6 Astra (earlier panel, default)",80.0,,,59.99
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-076,Search recall systems for Pratt & Whitney,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-077,Find alternative-finance activity in California,"Opus 5.5 (BrowserCode, high)",0.0,0.0,0,59.99
+cmub-077,Find alternative-finance activity in California,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,25.43
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,4.68
+cmub-077,Find alternative-finance activity in California,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,9.34
+cmub-077,Find alternative-finance activity in California,"GPT-6 Astra (earlier panel, default)",60.0,,,21.86
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",20.0,,,
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-077,Find alternative-finance activity in California,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-078,Find which discharge destinations are growing,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,12.93
+cmub-078,Find which discharge destinations are growing,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,20.75
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,11.27
+cmub-078,Find which discharge destinations are growing,"Gemini 3.8 Flash (BrowserCode, high)",10.0,10.0,0,2.33
+cmub-078,Find which discharge destinations are growing,"GPT-6 Astra (earlier panel, default)",100.0,,,18.34
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",70.0,,,
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.0,,,
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",100.0,,,
+cmub-078,Find which discharge destinations are growing,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-079,Recover a half-remembered statistic,"Opus 5.5 (BrowserCode, high)",87.5,87.5,0,11.41
+cmub-079,Recover a half-remembered statistic,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,15.57
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna (BrowserCode, high)",62.5,62.5,0,8.87
+cmub-079,Recover a half-remembered statistic,"Gemini 3.8 Flash (BrowserCode, high)",0.0,62.5,1,12.11
+cmub-079,Recover a half-remembered statistic,"GPT-6 Astra (earlier panel, default)",100.0,,,29.49
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",37.5,,,
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",25.0,,,
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",75.0,,,
+cmub-079,Recover a half-remembered statistic,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-080,Find San Diego homes with a view under $500k,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,24.33
+cmub-080,Find San Diego homes with a view under $500k,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,29.01
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,24.09
+cmub-080,Find San Diego homes with a view under $500k,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,21.18
+cmub-080,Find San Diego homes with a view under $500k,"GPT-6 Astra (earlier panel, default)",100.0,,,26.54
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",100.0,,,
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-080,Find San Diego homes with a view under $500k,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",80.0,,,
+cmub-081,Find a Prince of Wales check shirt,"Opus 5.5 (BrowserCode, high)",88.9,88.9,0,39.09
+cmub-081,Find a Prince of Wales check shirt,"Grok 4.7 (BrowserCode, high)",0.0,77.8,1,28.03
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna (BrowserCode, high)",88.9,88.9,0,9.74
+cmub-081,Find a Prince of Wales check shirt,"Gemini 3.8 Flash (BrowserCode, high)",0.0,66.7,1,12.86
+cmub-081,Find a Prince of Wales check shirt,"GPT-6 Astra (earlier panel, default)",100.0,,,27.28
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",66.7,,,
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",88.9,,,
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",88.9,,,
+cmub-081,Find a Prince of Wales check shirt,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",77.8,,,
+cmub-082,Find a PS5 Digital in stock this week,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,50.03
+cmub-082,Find a PS5 Digital in stock this week,"Grok 4.7 (BrowserCode, high)",70.0,70.0,0,35.65
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna (BrowserCode, high)",80.0,80.0,0,11.82
+cmub-082,Find a PS5 Digital in stock this week,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,45.08
+cmub-082,Find a PS5 Digital in stock this week,"GPT-6 Astra (earlier panel, default)",90.0,,,34.55
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",70.0,,,
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-082,Find a PS5 Digital in stock this week,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-083,Gather travel-nurse city data,"Opus 5.5 (BrowserCode, high)",91.7,91.7,0,25.21
+cmub-083,Gather travel-nurse city data,"Grok 4.7 (BrowserCode, high)",41.7,41.7,0,18.06
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna (BrowserCode, high)",58.3,58.3,0,24.2
+cmub-083,Gather travel-nurse city data,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,20.71
+cmub-083,Gather travel-nurse city data,"GPT-6 Astra (earlier panel, default)",33.3,,,59.99
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",58.3,,,
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",33.3,,,
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-083,Gather travel-nurse city data,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",66.7,,,
+cmub-084,Brief Louisiana nonfarm employment,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,10.8
+cmub-084,Brief Louisiana nonfarm employment,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,26.33
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,6.62
+cmub-084,Brief Louisiana nonfarm employment,"Gemini 3.8 Flash (BrowserCode, high)",80.0,80.0,0,17.03
+cmub-084,Brief Louisiana nonfarm employment,"GPT-6 Astra (earlier panel, default)",100.0,,,20.42
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",90.0,,,
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",90.0,,,
+cmub-084,Brief Louisiana nonfarm employment,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",80.0,,,
+cmub-085,List Office Evolution locations,"Opus 5.5 (BrowserCode, high)",44.4,44.4,0,34.63
+cmub-085,List Office Evolution locations,"Grok 4.7 (BrowserCode, high)",77.8,77.8,0,16.86
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna (BrowserCode, high)",0.0,0.0,0,59.99
+cmub-085,List Office Evolution locations,"Gemini 3.8 Flash (BrowserCode, high)",0.0,33.3,1,14.9
+cmub-085,List Office Evolution locations,"GPT-6 Astra (earlier panel, default)",100.0,,,48.91
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",55.6,,,
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",33.3,,,
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",22.2,,,
+cmub-085,List Office Evolution locations,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",44.4,,,
+cmub-086,Find holiday parks near Rotterdam Europoort,"Opus 5.5 (BrowserCode, high)",20.0,20.0,0,47.92
+cmub-086,Find holiday parks near Rotterdam Europoort,"Grok 4.7 (BrowserCode, high)",90.0,90.0,0,28.28
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna (BrowserCode, high)",40.0,40.0,0,59.99
+cmub-086,Find holiday parks near Rotterdam Europoort,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,14.77
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-6 Astra (earlier panel, default)",60.0,,,45.68
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",50.0,,,
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-086,Find holiday parks near Rotterdam Europoort,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-087,Collect TenderNed results for one phrase,"Opus 5.5 (BrowserCode, high)",60.0,60.0,0,25.97
+cmub-087,Collect TenderNed results for one phrase,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,23.99
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna (BrowserCode, high)",50.0,50.0,0,12.78
+cmub-087,Collect TenderNed results for one phrase,"Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,9.73
+cmub-087,Collect TenderNed results for one phrase,"GPT-6 Astra (earlier panel, default)",80.0,,,59.99
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",0.0,,,
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",10.0,,,
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",30.0,,,
+cmub-087,Collect TenderNed results for one phrase,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-088,Find the cheapest Tiguan alternator on RRR,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,15.41
+cmub-088,Find the cheapest Tiguan alternator on RRR,"Grok 4.7 (BrowserCode, high)",100.0,100.0,0,20.74
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna (BrowserCode, high)",75.0,75.0,0,9.17
+cmub-088,Find the cheapest Tiguan alternator on RRR,"Gemini 3.8 Flash (BrowserCode, high)",0.0,50.0,1,13.0
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-6 Astra (earlier panel, default)",87.5,,,22.9
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",100.0,,,
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",75.0,,,
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",87.5,,,
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-088,Find the cheapest Tiguan alternator on RRR,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",100.0,,,
+cmub-089,Find large vacant spaces in Charlotte,"Opus 5.5 (BrowserCode, high)",10.0,10.0,0,59.99
+cmub-089,Find large vacant spaces in Charlotte,"Grok 4.7 (BrowserCode, high)",50.0,50.0,0,18.91
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna (BrowserCode, high)",50.0,50.0,0,9.32
+cmub-089,Find large vacant spaces in Charlotte,"Gemini 3.8 Flash (BrowserCode, high)",0.0,20.0,1,33.48
+cmub-089,Find large vacant spaces in Charlotte,"GPT-6 Astra (earlier panel, default)",30.0,,,4.49
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",40.0,,,
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",40.0,,,
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-089,Find large vacant spaces in Charlotte,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",50.0,,,
+cmub-090,Profile the Dementia Discovery Fund portfolio,"Opus 5.5 (BrowserCode, high)",55.6,55.6,0,24.17
+cmub-090,Profile the Dementia Discovery Fund portfolio,"Grok 4.7 (BrowserCode, high)",11.1,11.1,0,14.17
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna (BrowserCode, high)",55.6,55.6,0,16.6
+cmub-090,Profile the Dementia Discovery Fund portfolio,"Gemini 3.8 Flash (BrowserCode, high)",0.0,11.1,1,17.14
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-6 Astra (earlier panel, default)",77.8,,,35.72
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",44.4,,,
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",33.3,,,
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",33.3,,,
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",55.6,,,
+cmub-090,Profile the Dementia Discovery Fund portfolio,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",55.6,,,
+cmub-091,Compare rentals at Halletts Point,"Opus 5.5 (BrowserCode, high)",44.4,44.4,0,14.96
+cmub-091,Compare rentals at Halletts Point,"Grok 4.7 (BrowserCode, high)",66.7,66.7,0,18.47
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna (BrowserCode, high)",55.6,55.6,0,9.77
+cmub-091,Compare rentals at Halletts Point,"Gemini 3.8 Flash (BrowserCode, high)",22.2,22.2,0,15.96
+cmub-091,Compare rentals at Halletts Point,"GPT-6 Astra (earlier panel, default)",100.0,,,12.82
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",66.7,,,
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",55.6,,,
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",77.8,,,
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",66.7,,,
+cmub-091,Compare rentals at Halletts Point,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",66.7,,,
+cmub-092,Build a European instrument-distributor directory,"Opus 5.5 (BrowserCode, high)",70.0,70.0,0,59.99
+cmub-092,Build a European instrument-distributor directory,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,26.25
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna (BrowserCode, high)",30.0,30.0,0,19.94
+cmub-092,Build a European instrument-distributor directory,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,16.54
+cmub-092,Build a European instrument-distributor directory,"GPT-6 Astra (earlier panel, default)",100.0,,,42.76
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",50.0,,,
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",50.0,,,
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",60.0,,,
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",50.0,,,
+cmub-092,Build a European instrument-distributor directory,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",60.0,,,
+cmub-093,Shortlist Montefalco Rosso wines,"Opus 5.5 (BrowserCode, high)",90.9,90.9,0,21.1
+cmub-093,Shortlist Montefalco Rosso wines,"Grok 4.7 (BrowserCode, high)",72.7,72.7,0,19.19
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna (BrowserCode, high)",63.6,63.6,0,22.39
+cmub-093,Shortlist Montefalco Rosso wines,"Gemini 3.8 Flash (BrowserCode, high)",54.5,54.5,0,12.91
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-6 Astra (earlier panel, default)",90.9,,,26.35
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",81.8,,,
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",45.5,,,
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",81.8,,,
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",72.7,,,
+cmub-093,Shortlist Montefalco Rosso wines,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",72.7,,,
+cmub-094,Shortlist used skid steers in Idaho and Utah,"Opus 5.5 (BrowserCode, high)",72.7,72.7,0,35.24
+cmub-094,Shortlist used skid steers in Idaho and Utah,"Grok 4.7 (BrowserCode, high)",90.9,90.9,0,35.73
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna (BrowserCode, high)",63.6,63.6,0,8.33
+cmub-094,Shortlist used skid steers in Idaho and Utah,"Gemini 3.8 Flash (BrowserCode, high)",0.0,45.5,1,18.66
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-6 Astra (earlier panel, default)",90.9,,,30.34
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",63.6,,,
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",81.8,,,
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",63.6,,,
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",54.5,,,
+cmub-094,Shortlist used skid steers in Idaho and Utah,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",72.7,,,
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","Opus 5.5 (BrowserCode, high)",60.0,60.0,0,25.39
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","Grok 4.7 (BrowserCode, high)",60.0,60.0,0,29.17
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna (BrowserCode, high)",0.0,50.0,1,39.45
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","Gemini 3.8 Flash (BrowserCode, high)",0.0,30.0,1,13.16
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-6 Astra (earlier panel, default)",100.0,,,45.78
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna rerun 1 (BrowserCode, high)",60.0,,,
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna rerun 3 (BrowserCode, high)",0.0,,,
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna rerun 4 (BrowserCode, high)",0.0,,,
+cmub-095,"Review Chrome vulnerabilities, 2024 to 2025","GPT-5.6 Luna rerun 5 (BrowserCode, high)",0.0,,,
+cmub-096,Find bike repair near Uppsala,"Opus 5.5 (BrowserCode, high)",90.0,90.0,0,29.67
+cmub-096,Find bike repair near Uppsala,"Grok 4.7 (BrowserCode, high)",40.0,40.0,0,4.82
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna (BrowserCode, high)",60.0,60.0,0,59.7
+cmub-096,Find bike repair near Uppsala,"Gemini 3.8 Flash (BrowserCode, high)",0.0,60.0,1,13.07
+cmub-096,Find bike repair near Uppsala,"GPT-6 Astra (earlier panel, default)",100.0,,,25.23
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",80.0,,,
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",80.0,,,
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-096,Find bike repair near Uppsala,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",90.0,,,
+cmub-097,Trace the edition history of Bach BWV 846,"Opus 5.5 (BrowserCode, high)",63.6,63.6,0,12.5
+cmub-097,Trace the edition history of Bach BWV 846,"Grok 4.7 (BrowserCode, high)",72.7,72.7,0,24.55
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna (BrowserCode, high)",36.4,36.4,0,7.61
+cmub-097,Trace the edition history of Bach BWV 846,"Gemini 3.8 Flash (BrowserCode, high)",0.0,45.5,1,7.76
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-6 Astra (earlier panel, default)",0.0,,,12.81
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",72.7,,,
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",0.0,,,
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",90.9,,,
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",81.8,,,
+cmub-097,Trace the edition history of Bach BWV 846,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",45.5,,,
+cmub-098,List Bynez perfume podcast coverage,"Opus 5.5 (BrowserCode, high)",80.0,80.0,0,12.39
+cmub-098,List Bynez perfume podcast coverage,"Grok 4.7 (BrowserCode, high)",80.0,80.0,0,13.91
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna (BrowserCode, high)",90.0,90.0,0,42.53
+cmub-098,List Bynez perfume podcast coverage,"Gemini 3.8 Flash (BrowserCode, high)",0.0,40.0,1,6.91
+cmub-098,List Bynez perfume podcast coverage,"GPT-6 Astra (earlier panel, default)",100.0,,,16.81
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",90.0,,,
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",60.0,,,
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",80.0,,,
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",70.0,,,
+cmub-098,List Bynez perfume podcast coverage,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",70.0,,,
+cmub-099,Build a Class 8 truck price baseline,"Opus 5.5 (BrowserCode, high)",18.2,18.2,0,59.99
+cmub-099,Build a Class 8 truck price baseline,"Grok 4.7 (BrowserCode, high)",9.1,9.1,0,59.99
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna (BrowserCode, high)",9.1,9.1,0,59.99
+cmub-099,Build a Class 8 truck price baseline,"Gemini 3.8 Flash (BrowserCode, high)",63.6,63.6,0,19.4
+cmub-099,Build a Class 8 truck price baseline,"GPT-6 Astra (earlier panel, default)",18.2,,,59.99
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",72.7,,,
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",9.1,,,
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",9.1,,,
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",9.1,,,
+cmub-099,Build a Class 8 truck price baseline,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",36.4,,,
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"Opus 5.5 (BrowserCode, high)",100.0,100.0,0,12.67
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"Grok 4.7 (BrowserCode, high)",88.9,88.9,0,14.02
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna (BrowserCode, high)",88.9,88.9,0,24.65
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"Gemini 3.8 Flash (BrowserCode, high)",0.0,55.6,1,9.15
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-6 Astra (earlier panel, default)",100.0,,,13.16
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna rerun 1 (BrowserCode, high)",88.9,,,
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna rerun 2 (BrowserCode, high)",77.8,,,
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna rerun 3 (BrowserCode, high)",100.0,,,
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna rerun 4 (BrowserCode, high)",88.9,,,
+cmub-100,Compare DeepSeek model cards on AtlasCloud,"GPT-5.6 Luna rerun 5 (BrowserCode, high)",66.7,,,
