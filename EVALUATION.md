@@ -4,7 +4,7 @@ This documents the saved artifact-aware findings judge. It releases the exact sy
 
 ## Judge inputs and model
 
-Six inspected saved requests all use the accompanying `judge-prompt.txt` byte for byte (SHA-256 `fc10c11068d0189a45b565a456260981ca7d6d757369b997bf20a5b543eec0d3`). They identify `gpt-5.6-luna` with `xhigh` reasoning effort. The older archive extraction records this same prompt hash for 2,460 readable requests; 15 request hashes were unavailable. This does not establish identical prompts for every earlier-panel run.
+Six inspected saved requests all use the accompanying `judge-prompt.txt` byte for byte (SHA-256 `fc10c11068d0189a45b565a456260981ca7d6d757369b997bf20a5b543eec0d3`). They identify `gpt-5.6-luna` with `xhigh` reasoning effort. The older archive extraction records this same prompt hash for 2,460 readable requests; 15 request hashes were unavailable. This does not establish identical prompts for all runs used for the judge comparisons.
 
 The harness prepares the task, website, rubric, numbered agent trajectory, final response, extracted output-file contents, and selected screenshots. The judge receives this prepared evidence and returns one structured judgment containing:
 
@@ -23,9 +23,9 @@ The six inspected packets contain 2–15 screenshots; their recorded `images_sen
 
 ## Execution settings
 
-The six inspected high-effort BrowserCode manifests record BrowserCode `0.1.20`, agent reasoning effort `high`, `task_timeout: 3600` seconds, and declared `max_steps: 35`. The recorded trajectory can contain more action entries than this declared step setting, so the declaration should not be interpreted as a cap of 35 logged browser actions. These settings describe the inspected main-study runs and must not be generalized to every earlier-panel or other-harness configuration.
+The six inspected high-effort BrowserCode manifests record BrowserCode `0.1.20`, agent reasoning effort `high`, `task_timeout: 3600` seconds, and declared `max_steps: 35`. The recorded trajectory can contain more action entries than this declared step setting, so the declaration should not be interpreted as a cap of 35 logged browser actions. These settings describe the inspected BrowserCode runs and must not be generalized to configurations outside those inspected runs.
 
-The blog reports 20 main-study setups on 100 tasks, plus five 100-task Luna reruns: 2,500 attempts in that scope. Earlier-panel attempts are separate. The public chart data gives model/harness/effort labels and aggregate scores; it does not supply every setup's full configuration or every original trajectory. Browser Use Cloud browser provisioning and live websites also affect reproducibility.
+The published aggregate data cover 20 model/harness/effort configurations on 100 tasks, plus five additional 100-task Luna runs: 2,500 attempts in that scope. The attempts from the 21 setups used in the three-judge comparison are separate from that total. The public chart data gives model/harness/effort labels and aggregate scores; it does not supply every setup's full configuration or every original trajectory. Browser Use Cloud browser provisioning and live websites also affect reproducibility.
 
 ## Deterministic score policy
 
@@ -39,11 +39,11 @@ For the released tasks, every rubric item has weight 1. The judge emits findings
 
 The zeroing policy uses suspected reward hacking, including suspected fabrication. A flag is the judge's assessment, not independent proof of agent intent or misconduct. Other diagnostic flags should not be silently treated as equivalent to `rh_zeroed`.
 
-Archive score records use a 0–1 scale; published CSVs use 0–100. Published task scores and times are rounded. Astra's pre-check credit and flag status are unavailable in the public score export, so those cells are blank. Reruns supply only final scores. Missing data is not zero.
+Archive score records use a 0–1 scale; published CSVs use 0–100. Published task scores and times are rounded. Astra's pre-check credit and flag status are unavailable in the public score export, so those cells are blank. Runs supply only final scores. Missing data is not zero. Fable 5’s content filters blocked two tasks. Its reported means use the remaining 98 scored attempts; the blocked tasks are excluded rather than scored zero.
 
 ## Verification coverage and remaining gaps
 
-Release checks establish consistency between the page, its data files, and the downloadable bundle. The older archive cross-check matched all 99 available task instructions and rubrics and 884 available high-effort/rerun final scores. It excluded task `cmub-061`; that task appears in the current catalog, but its original task/run evidence was not verified against that archive.
+Release checks establish consistency between the page, its data files, and the downloadable bundle. The older archive cross-check matched all 99 available task instructions and rubrics and 884 available high-effort/run final scores. It excluded task `cmub-061`; that task appears in the current catalog, but its original task/run evidence was not verified against that archive.
 
 The full 2,500-attempt count is consistent with the published aggregate counts, but not independently reconstructed from the older archive. The September Odysseys run/audit, three-grader pooled ablation, 49-of-210 ranking comparison, and published confidence intervals have not been independently recomputed in this release check. The downloads do not contain all underlying records or analysis code needed to reproduce those claims. They remain reported study results.
 
