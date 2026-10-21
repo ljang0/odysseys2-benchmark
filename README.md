@@ -5,6 +5,12 @@
 - [Interactive release and methodology](https://odysseysbench.com/v2/)
 - [BrowserCode agent harness](https://github.com/browser-use/browsercode)
 
+## Authors
+
+Lawrence Jang¹, Alexander Yue², Magnus Müller², Gregor Zunic², Andrew Keunwoo Jang¹, Younghan Park¹, Mareks Woodside¹, Daniel Fried¹, Jing Yu Koh¹, Ruslan Salakhutdinov¹
+
+¹ Carnegie Mellon University · ² Browser Use
+
 ## Files
 
 - `odysseys2-tasks.json`: all 100 instructions, start URLs and full rubrics.
@@ -44,4 +50,15 @@ The original task/rubric definitions, score data, prompt, and documentation in t
 
 ## Citation
 
-Jang, Lawrence, Alexander Yue, Magnus Müller, Gregor Zunic, Jing Yu Koh and Ruslan Salakhutdinov. (2026). *Odysseys2: A Web Agent Benchmark Based on Real User Requests*. https://odysseysbench.com/v2/
+Jang, Lawrence, Alexander Yue, Magnus Müller, Gregor Zunic, Andrew Keunwoo Jang, Younghan Park, Mareks Woodside, Daniel Fried, Jing Yu Koh and Ruslan Salakhutdinov. (2026). *Odysseys2: A Web Agent Benchmark Based on Real User Requests*. https://odysseysbench.com/v2/
+
+```bibtex
+@misc{jang2026odysseys2,
+  title        = {Odysseys2: A Web Agent Benchmark Based on Real User Requests},
+  author       = {Jang, Lawrence and Yue, Alexander and M{\"u}ller, Magnus and
+                  Zunic, Gregor and Jang, Andrew Keunwoo and Park, Younghan and
+                  Woodside, Mareks and Fried, Daniel and Koh, Jing Yu and Salakhutdinov, Ruslan},
+  year         = {2026},
+  howpublished = {\url{https://odysseysbench.com/v2/}}
+}
+```
